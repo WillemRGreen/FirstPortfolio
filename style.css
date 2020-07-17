@@ -1,0 +1,73 @@
+.center-text {
+  text-align:center;
+}
+.dark-background {
+  background-color: #182D2C;
+}
+.main-background {
+  background-color: #EFEAE6;
+}
+.image-adjust {
+  border-radius:50%;
+}
+/*All the changes based on class above */
+header > div {
+  height: 150px;
+  padding-top:40px;
+  padding-bottom:15px;
+  color:white;
+}
+h1 {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size:50px;
+}
+header div h2 {
+  font-size:15px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight:500
+}
+/*All stylizations in the Header section above */
+
+main {
+  padding-top:20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+main > div {
+  margin-left:100px;
+  margin-right:100px;
+}
+
+main > div > h3 {
+  font-weight: 550;
+}
+/*Various changes to the main container */
+
+hr {
+  height: 1px;
+  background-color:#182D2C;
+  margin-top:40px;
+  margin-bottom:40px;
+}
+/*Fomatting style for all hr */
+
+footer > div {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size:12px;
+  color:white;
+  padding-top:20px;
+  padding-bottom:20px;
+}
+/*footer container formatting/style */
+
+a {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 15px;
+  font-weight:600;
+}
+a:link {color:#94A187}
+a:visited{color: #182D2C}
+a:hover {color:#C2C6B7}
+a:active{color:#56657A}
+
+/*Style formatting for links*/
