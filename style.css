@@ -2,10 +2,10 @@
   text-align:center;
 }
 .dark-background {
-  background-color: #182D2C;
+  background-color: #2F3E46;
 }
 .main-background {
-  background-color: #EFEAE6;
+  background-color: #CAD2C5;
 }
 .image-adjust {
   border-radius:50%;
@@ -45,7 +45,7 @@ main > div > h3 {
 
 hr {
   height: 1px;
-  background-color:#182D2C;
+  background-color:#2F3E46;
   margin-top:40px;
   margin-bottom:40px;
 }
@@ -65,9 +65,9 @@ a {
   font-size: 15px;
   font-weight:600;
 }
-a:link {color:#94A187}
-a:visited{color: #182D2C}
-a:hover {color:#C2C6B7}
+a:link {color:#2F3E46}
+a:visited{color: #52796F}
+a:hover {color:#84A98C}
 a:active{color:#56657A}
 
 /*Style formatting for links*/
