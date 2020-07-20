@@ -30,10 +30,15 @@ header div h2 {
 
 main {
   padding-top:20px;
+  padding-bottom:20px;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 main > div {
+  margin-left:100px;
+  margin-right:100px;
+}
+main > article {
   margin-left:100px;
   margin-right:100px;
 }
@@ -45,7 +50,7 @@ main > div > h3 {
 
 hr {
   height: 1px;
-  background-color:#2F3E46;
+  background-color:#182D2C;
   margin-top:40px;
   margin-bottom:40px;
 }
